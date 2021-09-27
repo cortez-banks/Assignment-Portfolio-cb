@@ -1,0 +1,15 @@
+
+div {
+  background-image: url('bg_img.jpg');
+}
+
+h1{text-align: center;
+	color: white;
+}
+nav{text-align: center;
+	color: white;
+}
+p{
+	background-color: blue;
+	color: white;
+}
